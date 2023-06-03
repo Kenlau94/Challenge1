@@ -1,2 +1,2 @@
-# Challenge1
+# Refactoring-Scout-Rule
 week1challenge
