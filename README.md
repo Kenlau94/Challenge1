@@ -10,4 +10,4 @@ After reading over the initial read.me file of the assignment over and over for 
 
 ![screenshot of code](./images/refactoringpart1.png)
 ![second screenshot of code](./images/refactoringpart2.png)
-[Http link from my github repo](https://github.com/Kenlau94/Refactoring-Scout-Rule.git)
+[Http link from my github repo](https://kenlau94.github.io/Refactoring-Scout-Rule/)

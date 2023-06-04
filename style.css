@@ -86,6 +86,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
+
 /*I began to noticed a massive amount of code with the same functions starting here*/
 .benefit-lead,
 .benefit-brand,
@@ -95,19 +96,20 @@ p {
 }
 /*I tried creating more class ids to target the groups and have a massive list of commands with only one selector such as .imag1group*/
 .benefit-lead h3,
-.benefit-brand,
-.benefit-cost {
+.benefit-brand h3,
+.benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 /*It simply did not work and resulted in me having to start over from scratch twice*/
 .benefit-lead img,
-.benefit-brand,
-.benefit-cost {
+.benefit-brand img,
+.benefit-cost img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
+
 /*The solution that I found was to add a comma and add more classes to the same command*/
 .search-engine-optimization,
 .online-reputation-management,
@@ -121,8 +123,8 @@ p {
 }
 /*My initial method was to have one class for all three classes and one set of commands to effect all*/
 .search-engine-optimization img,
-.online-reputation-management,
-.social-media-marketing {
+.online-reputation-management img,
+.social-media-marketing img {
   max-height: 200px;
 }
 /*Not sure if this is the solution you were looking for but it was my solution without asked for help =)*/
