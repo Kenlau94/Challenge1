@@ -8,6 +8,6 @@ After reading over the initial read.me file of the assignment over and over for 
 
 [This is the link to the deployed application](http://127.0.0.1:5501/01-HTML-Git-CSS/02-Challenge/challenge1/Challenge1/index.html#social-media-marketing)
 
-![screenshot of code](./images/refactoringpart1.png)
-![second screenshot of code](./images/refactoringpart2.png)
+![screenshot of code](./assets/images/refactoringpart1.png)
+![second screenshot of code](./assets/images/refactoringpart2.png)
 [Http link from my github repo](https://kenlau94.github.io/Refactoring-Scout-Rule/)

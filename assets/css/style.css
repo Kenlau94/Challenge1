@@ -1,3 +1,4 @@
+/* styling for page  */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -51,31 +52,36 @@ p {
   font-size: 16px;
 }
 
+/* used .. to fix the routes */
 .hero {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  background-image: url("./images/digital-marketing-meeting.jpg");
+  background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
 }
 
+/* styling for float left id */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* styling for float right id */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/* styling for content id */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* styling for benifits id */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -135,6 +141,7 @@ p {
   font-size: 36px;
 }
 
+/* footer styling */
 .footer {
   padding: 30px;
   clear: both;
